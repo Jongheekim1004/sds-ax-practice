@@ -3,3 +3,6 @@
 .env
 __pycache__/
 chroma_db/
+
+# LangGraph 개발 서버가 자동으로 만드는 캐시
+.langgraph_api/
